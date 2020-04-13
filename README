@@ -1,6 +1,6 @@
 Compile:
-g++ badSort.cpp -o badSort
-g++ -std=c++17 badSortTime.cpp -o badSortTime
+g++ -std=c++11 badSort.cpp -o badSort
+g++ -std=c++11 badSortTime.cpp -o badSortTime
 
 Run:
 ./badSort

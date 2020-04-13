@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <cmath>
+#include <limits>
 
 void badSort(int[], int, int, float);
 int getNumber(std::string);
